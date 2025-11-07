@@ -1,5 +1,7 @@
 // Array Data Structure:
 
+// Arrays in Data Structure | Declaration, Initialization, Memory representation.
+
 #include <stdio.h>
 
 int main() {
